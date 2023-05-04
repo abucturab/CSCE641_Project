@@ -50,6 +50,8 @@ Since the Generator is frozen, we have more or less a static feature plane which
 
 # Baseline NeRF
 
+![NeRF Overview](https://abucturab.github.io/CSCE641_Project/images/NeRF-overview.png "NeRF Overview")
+
 In order to compare the quality and the performance of the Tri-plane representation for Neural Rendering and the power of the Tri-plane to capture the 3d geometry, we compare it with the original NeRF implementation.
 
 We use the same dataset, i.e., car which was used to train the decoder in the 2nd part of the above experiment. 
