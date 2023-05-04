@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the web page for the final course project for the course CSCE 641 Computer Graphics
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+All the work in this project is done by Abuturab Mohammadi - [abuturab@tamu.edu](mailto:abuturab@tamu.edu)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I would like to thank and acknowledge Professor Xin Li, for all the guidance and help provided throughout the course and the project.
 
+I have learned immensely from this course and through the project
 
-[jekyll-organization]: https://github.com/jekyll
+Links to All the Resources - 
+
+[EG3D paper](https://nvlabs.github.io/eg3d/media/eg3d.pdf)
+
+[EG3D website](https://nvlabs.github.io/eg3d/)
+
+[EG3D github](https://github.com/NVlabs/eg3d)
+
+[NeRF implementation](https://github.com/abucturab/NeRF_641_project)
+
+[ShapeNet Cars Dataset](https://drive.google.com/file/d/1bThUNtIHx4xEQyffVBSf82ABDDh2HlFn/view?usp=share_link)
+
