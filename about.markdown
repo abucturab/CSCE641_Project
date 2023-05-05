@@ -22,5 +22,7 @@ Links to All the Resources -
 
 [NeRF implementation](https://github.com/abucturab/NeRF_641_project)
 
+[Full Presentation](https://youtu.be/bDTagcIuYxw)
+
 [ShapeNet Cars Dataset](https://drive.google.com/file/d/1bThUNtIHx4xEQyffVBSf82ABDDh2HlFn/view?usp=share_link)
 
